@@ -7,7 +7,7 @@ subtitle: MS student @ Hanyang University AI. dhaudwks0526@hanyang.ac.kr
 
 profile:
   align: right
-  image: myeongjun.jpg
+  image: myeongjun1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Artificial Intelligence</p>
