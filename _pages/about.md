@@ -10,8 +10,9 @@ profile:
   image: myeongjun1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Artificial Intelligence</p>
-    <p>Hanyang University, Seoul</p>
+    <p>Research on generative models and machine learning.</p>
+    <p><i class="fa-solid fa-location-dot"></i> Seoul, South Korea</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
