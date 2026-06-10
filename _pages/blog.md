@@ -2,7 +2,8 @@
 layout: default
 permalink: /blog/
 title: blog
-nav: true
+nav: false
+published: false    # ← 이 줄 추가
 nav_order: 1
 pagination:
   enabled: true
