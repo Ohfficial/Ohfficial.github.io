@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-05-22 12:00:00+0900
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+Our paper *PATHS* has been accepted at the [ICML 2026 Workshop on SPIGM](https://spigmworkshop2026.github.io/)!
