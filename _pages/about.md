@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 
-subtitle: MS student @ Hanyang University AI. dhaudwks0526@hanyang.ac.kr
+subtitle: MS student @ Hanyang University AI. / dhaudwks0526@hanyang.ac.kr
 
 profile:
   align: right
@@ -37,4 +37,4 @@ My research interests lie at the intersection of **diffusion models**,
 been working on inference-time reward alignment via parallel tempering
 and the training dynamics of masked diffusion language models.
 
-**Email:** dhaudwks0526 [at] hanyang.ac.kr
+
