@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year M.S. student in the [Department of Artificial Intelligence] (https://nextai.hanyang.ac.kr/en/)
+I am a first-year M.S. student in the [Department of Artificial Intelligence](https://nextai.hanyang.ac.kr/en/)
 at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by
-[Sungyoon Lee]((https://sites.google.com/view/sungyoon-lee/home?authuser=0).
+[Sungyoon Lee](https://sites.google.com/view/sungyoon-lee/home?authuser=0).
 
 My research interests lie at the intersection of **diffusion models**,
 **probabilistic inference**, and **reward alignment**. Recently, I have
