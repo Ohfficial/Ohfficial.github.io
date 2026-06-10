@@ -3,6 +3,7 @@ layout: page
 title: plugins
 permalink: /plugins/
 nav: false
+published: false    # ← 이 줄 추가
 description: featured and bundled plugin ecosystem catalog for al-folio v1.x
 ---
 
