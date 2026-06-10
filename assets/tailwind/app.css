@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+  --global-theme-color: #1565c0;
+  --global-hover-color: #0d47a1;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #5a9bd8;
+  --global-hover-color: #82b4e0;
+}
