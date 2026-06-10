@@ -342,7 +342,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Oh]
-  first_name: [Myeongjun]
+  first_name: [Myeongjun, M.]
 
   style: apa
   locale: en
