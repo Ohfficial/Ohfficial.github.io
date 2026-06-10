@@ -32,9 +32,8 @@ I am a first-year M.S. student in the [Department of Artificial Intelligence](ht
 at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by
 [Sungyoon Lee](https://sites.google.com/view/sungyoon-lee/home?authuser=0).
 
-My research interests lie at the intersection of **diffusion models**,
-**probabilistic inference**, and **reward alignment**. Recently, I have
-been working on inference-time reward alignment via parallel tempering
-and the training dynamics of masked diffusion language models.
+My research interests lie at the intersection of **diffusion models**, **probabilistic inference**, and **reward alignment**. My broader goal is to improve the generalization of generative models and to deepen the fundamental understanding of deep learning.
+
+Recently, I have been focusing on **discrete diffusion models**, studying their training dynamics and reward alignment. Looking ahead, I aim to extend both the scope and the application domains of my research toward **AI for science**.
 
 
