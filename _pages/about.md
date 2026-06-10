@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 
-subtitle: MS student @ Hanyang University AI. / dhaudwks0526@hanyang.ac.kr
+subtitle: MS student @ Hanyang University AI. / dhaudwns0526@hanyang.ac.kr
 
 profile:
   align: right
