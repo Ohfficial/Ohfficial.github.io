@@ -3,6 +3,7 @@ layout: book-shelf
 title: bookshelf
 permalink: /books/
 nav: false
+published: false    # ← 이 줄 추가
 collection: books
 ---
 
