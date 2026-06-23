@@ -34,6 +34,6 @@ at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by
 
 My research interests lie at the intersection of **diffusion models**, **probabilistic inference**, and **reward alignment**. My broader goal is to improve the generalization of generative models and to deepen the fundamental understanding of deep learning.
 
-Recently, I have been focusing on **discrete diffusion models**, studying their training dynamics and reward alignment. Looking ahead, I aim to extend both the scope and the application domains of my research toward **AI for science**.
+Recently, I have been focusing on **diffusion language models**, studying their training dynamics and reward alignment. Looking ahead, I aim to extend both the scope and the application domains of my research toward **AI for science**.
 
 
