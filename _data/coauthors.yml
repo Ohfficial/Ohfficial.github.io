@@ -1,7 +1,7 @@
-Kim:
-  - firstname: ["Gwangho"]
+"kim":
+  - firstname: ["Gwangho", "G."]
     url: "https://gwangho99.github.io/"
 
-Lee:
-  - firstname: ["Sungyoon"]
-    url: "https://sites.google.com/view/sungyoon-lee/group?authuser=0"
+"lee":
+  - firstname: ["Sungyoon", "S."]
+    url: "https://sites.google.com/view/sungyoon-lee/home?authuser=0"
