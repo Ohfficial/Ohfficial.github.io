@@ -27,6 +27,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<style>
+.publications .author > em {
+  font-weight: 700;
+  border-bottom: none;
+}
+</style>
 
 I am a first-year M.S. student in the [Department of Artificial Intelligence](https://nextai.hanyang.ac.kr/en/)
 at [Hanyang University](https://www.hanyang.ac.kr/web/eng), advised by
