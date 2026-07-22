@@ -1,5 +1,7 @@
-"Kim, Gwangho":
-  - url: "https://gwangho99.github.io/"
+Kim:
+  - firstname: ["Gwangho"]
+    url: "https://gwangho99.github.io/"
 
-"Lee, Sungyoon":
-  - url: "https://sites.google.com/view/sungyoon-lee/group?authuser=0"
+Lee:
+  - firstname: ["Sungyoon"]
+    url: "https://sites.google.com/view/sungyoon-lee/group?authuser=0"
