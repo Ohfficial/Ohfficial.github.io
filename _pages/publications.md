@@ -7,9 +7,12 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
+<style>
+.publications .author > em {
+  font-weight: 700;
+  border-bottom: none;
+}
+</style>
 
 {% include bib_search.liquid %}
 
